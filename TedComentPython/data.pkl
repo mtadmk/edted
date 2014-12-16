@@ -1,0 +1,55 @@
+(dp0
+I9
+(dp1
+I24562
+(dp2
+Vmanaged
+p3
+I1
+sVtechnical glitch possibilities
+p4
+I1
+sVted prize showed
+p5
+I1
+sVface popped
+p6
+I1
+sVgive
+p7
+I1
+sVted
+p8
+I1
+sVmighty relieved
+p9
+I1
+sVunbelievably inspiring talk
+p10
+I1
+sVteleportec screen
+p11
+I1
+sVlead directly
+p12
+I1
+sssI27
+(dp13
+I24563
+(dp14
+Vcomputer
+p15
+I1
+sVfuture
+p16
+I1
+sVwork
+p17
+I1
+sVfeeling depressed
+p18
+I1
+sVjeff
+p19
+I1
+sss.
